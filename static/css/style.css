@@ -901,7 +901,7 @@ img {
 
 @media only screen and (min-width:992px) {
     .hero-section {
-        padding-top: 205px;
+        padding-top: 5px;
         padding-bottom: 130px;
     }
 }
